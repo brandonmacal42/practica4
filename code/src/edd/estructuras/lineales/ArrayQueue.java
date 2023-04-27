@@ -1,4 +1,3 @@
-package edd.estructuras.lineales;
 
 import java.util.Iterator;
 

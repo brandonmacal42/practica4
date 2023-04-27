@@ -1,6 +1,4 @@
 
-package edd.estructuras.lineales;
-
 /**
  * TDA Queue.
  *
